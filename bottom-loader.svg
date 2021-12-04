@@ -1,0 +1,89 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bottom-loader">
+<g id="bottomLoader">
+<circle id="Ellipse 3" cx="50" cy="50" r="49" stroke="white" stroke-width="2"/>
+</g>
+<g id="meter">
+<path id="Vector" d="M50 7.76081V3.68957" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_2" d="M50 96.3104V92.2392" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_3" d="M46.687 7.89313L46.3664 3.83206" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_4" d="M53.6336 96.1679L53.313 92.1069" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_5" d="M43.3944 8.2799L42.7532 4.25954" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_6" d="M57.2468 95.7405L56.6056 91.7201" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_7" d="M40.1374 8.92621L39.1908 4.96692" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_8" d="M60.8092 95.0331L59.8626 91.0738" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_9" d="M36.9466 9.82697L35.6896 5.9542" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_10" d="M64.3104 94.0458L63.0534 90.173" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_11" d="M33.8371 10.9771L32.2799 7.21629" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_12" d="M67.7201 92.7837L66.1628 89.0229" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_13" d="M30.8244 12.3664L28.9771 8.73791" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_14" d="M71.0229 91.2621L69.1756 87.6336" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_15" d="M27.9288 13.9847L25.8015 10.514" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_16" d="M74.1985 89.486L72.0712 86.0153" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_17" d="M25.1705 15.827L22.7786 12.5344" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_18" d="M77.2214 87.4656L74.8295 84.173" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_19" d="M22.57 17.8829L19.9237 14.7837" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_20" d="M80.0763 85.2163L77.43 82.1171" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_21" d="M20.1323 20.1323L17.2519 17.2519" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_22" d="M82.7481 82.7481L79.8677 79.8677" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_23" d="M17.8829 22.57L14.7837 19.9237" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_24" d="M85.2163 80.0763L82.1171 77.43" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_25" d="M15.827 25.1705L12.5344 22.7786" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_26" d="M87.4656 77.2214L84.173 74.8295" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_27" d="M13.9847 27.9288L10.514 25.8015" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_28" d="M89.486 74.1985L86.0153 72.0712" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_29" d="M12.3664 30.8244L8.73792 28.9771" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_30" d="M91.2621 71.0229L87.6336 69.1756" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_31" d="M10.9771 33.8371L7.21629 32.2799" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_32" d="M92.7837 67.7201L89.0229 66.1628" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_33" d="M9.82697 36.9466L5.9542 35.6896" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_34" d="M94.0458 64.3104L90.173 63.0534" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_35" d="M8.92621 40.1374L4.96692 39.1908" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_36" d="M95.0331 60.8092L91.0738 59.8626" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_37" d="M8.2799 43.3944L4.25954 42.7532" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_38" d="M95.7405 57.2468L91.7201 56.6056" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_39" d="M7.89313 46.687L3.83206 46.3664" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_40" d="M96.1679 53.6336L92.1069 53.313" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_41" d="M7.76081 50H3.68957" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_42" d="M96.3104 50H92.2392" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_43" d="M7.89313 53.313L3.83206 53.6336" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_44" d="M96.1679 46.3664L92.1069 46.687" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_45" d="M8.2799 56.6056L4.25954 57.2468" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_46" d="M95.7405 42.7532L91.7201 43.3944" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_47" d="M8.92621 59.8626L4.96692 60.8092" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_48" d="M95.0331 39.1908L91.0738 40.1374" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_49" d="M9.82697 63.0534L5.9542 64.3104" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_50" d="M94.0458 35.6896L90.173 36.9466" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_51" d="M10.9771 66.1628L7.21629 67.7201" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_52" d="M92.7837 32.2799L89.0229 33.8371" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_53" d="M12.3664 69.1756L8.73792 71.0229" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_54" d="M91.2621 28.9771L87.6336 30.8244" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_55" d="M13.9847 72.0712L10.514 74.1985" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_56" d="M89.486 25.8015L86.0153 27.9288" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_57" d="M15.827 74.8295L12.5344 77.2214" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_58" d="M87.4656 22.7786L84.173 25.1705" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_59" d="M17.8829 77.43L14.7837 80.0763" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_60" d="M85.2163 19.9237L82.1171 22.57" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_61" d="M20.1323 79.8677L17.2519 82.7481" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_62" d="M82.7481 17.2519L79.8677 20.1323" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_63" d="M22.57 82.1171L19.9237 85.2163" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_64" d="M80.0763 14.7837L77.43 17.8829" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_65" d="M25.1705 84.173L22.7786 87.4656" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_66" d="M77.2214 12.5344L74.8295 15.827" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_67" d="M27.9288 86.0153L25.8015 89.486" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_68" d="M74.1985 10.514L72.0712 13.9847" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_69" d="M30.8244 87.6336L28.9771 91.2621" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_70" d="M71.0229 8.73791L69.1756 12.3664" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_71" d="M33.8371 89.0229L32.2799 92.7837" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_72" d="M67.7201 7.21629L66.1628 10.9771" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_73" d="M36.9466 90.173L35.6896 94.0458" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_74" d="M64.3104 5.9542L63.0534 9.82697" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_75" d="M40.1374 91.0738L39.1908 95.0331" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_76" d="M60.8092 4.96692L59.8626 8.92621" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_77" d="M43.3944 91.7201L42.7532 95.7405" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_78" d="M57.2468 4.25954L56.6056 8.2799" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_79" d="M46.687 92.1069L46.3664 96.1679" stroke="#3FA9F5" stroke-miterlimit="10"/>
+<path id="Vector_80" d="M53.6336 3.83206L53.313 7.89313" stroke="#3FA9F5" stroke-miterlimit="10"/>
+</g>
+</g>
+</svg>
